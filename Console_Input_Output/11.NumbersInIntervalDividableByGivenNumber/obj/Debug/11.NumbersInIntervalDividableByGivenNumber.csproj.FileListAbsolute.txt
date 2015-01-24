@@ -1,0 +1,6 @@
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\11.NumbersInIntervalDividableByGivenNumber\bin\Debug\11.NumbersInIntervalDividableByGivenNumber.exe.config
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\11.NumbersInIntervalDividableByGivenNumber\bin\Debug\11.NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\11.NumbersInIntervalDividableByGivenNumber\bin\Debug\11.NumbersInIntervalDividableByGivenNumber.pdb
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\11.NumbersInIntervalDividableByGivenNumber\obj\Debug\11.NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\11.NumbersInIntervalDividableByGivenNumber\obj\Debug\11.NumbersInIntervalDividableByGivenNumber.pdb
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\11.NumbersInIntervalDividableByGivenNumber\obj\Debug\11.NumbersInIntervalDividableByGivenNumber.csprojResolveAssemblyReference.cache

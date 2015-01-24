@@ -1,0 +1,6 @@
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\08.NumbersFromOneToTen\bin\Debug\08.NumbersFromOneToTen.exe.config
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\08.NumbersFromOneToTen\bin\Debug\08.NumbersFromOneToTen.exe
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\08.NumbersFromOneToTen\bin\Debug\08.NumbersFromOneToTen.pdb
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\08.NumbersFromOneToTen\obj\Debug\08.NumbersFromOneToTen.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\08.NumbersFromOneToTen\obj\Debug\08.NumbersFromOneToTen.exe
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\08.NumbersFromOneToTen\obj\Debug\08.NumbersFromOneToTen.pdb

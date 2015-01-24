@@ -1,0 +1,6 @@
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\09.SummOfNNombers\bin\Debug\09.SummOfNNombers.exe.config
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\09.SummOfNNombers\bin\Debug\09.SummOfNNombers.exe
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\09.SummOfNNombers\bin\Debug\09.SummOfNNombers.pdb
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\09.SummOfNNombers\obj\Debug\09.SummOfNNombers.exe
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\09.SummOfNNombers\obj\Debug\09.SummOfNNombers.pdb

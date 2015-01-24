@@ -1,0 +1,6 @@
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\14.SumOfElements\bin\Debug\14.SumOfElements.exe.config
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\14.SumOfElements\bin\Debug\14.SumOfElements.exe
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\14.SumOfElements\bin\Debug\14.SumOfElements.pdb
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\14.SumOfElements\obj\Debug\14.SumOfElements.exe
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\14.SumOfElements\obj\Debug\14.SumOfElements.pdb
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\14.SumOfElements\obj\Debug\14.SumOfElements.csprojResolveAssemblyReference.cache

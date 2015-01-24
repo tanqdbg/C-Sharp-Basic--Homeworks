@@ -1,0 +1,6 @@
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\13.WorkHours\bin\Debug\13.WorkHours.exe.config
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\13.WorkHours\obj\Debug\13.WorkHours.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\13.WorkHours\bin\Debug\13.WorkHours.exe
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\13.WorkHours\bin\Debug\13.WorkHours.pdb
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\13.WorkHours\obj\Debug\13.WorkHours.exe
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\13.WorkHours\obj\Debug\13.WorkHours.pdb

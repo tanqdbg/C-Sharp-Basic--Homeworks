@@ -1,0 +1,6 @@
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\15.NewHouse\bin\Debug\15.NewHouse.exe.config
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\15.NewHouse\obj\Debug\15.NewHouse.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\15.NewHouse\bin\Debug\15.NewHouse.exe
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\15.NewHouse\bin\Debug\15.NewHouse.pdb
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\15.NewHouse\obj\Debug\15.NewHouse.exe
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\15.NewHouse\obj\Debug\15.NewHouse.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\12.FallingRocks\bin\Debug\12.FallingRocks.exe.config
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\12.FallingRocks\bin\Debug\12.FallingRocks.exe
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\12.FallingRocks\bin\Debug\12.FallingRocks.pdb
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\12.FallingRocks\obj\Debug\12.FallingRocks.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\12.FallingRocks\obj\Debug\12.FallingRocks.exe
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\12.FallingRocks\obj\Debug\12.FallingRocks.pdb

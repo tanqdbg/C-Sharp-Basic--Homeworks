@@ -1,0 +1,6 @@
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe.config
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.pdb
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.exe
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.pdb
+C:\Users\Tanya\Desktop\doma6ni\Console_Input_Output\03.CirclePerimeterAndArea\obj\Debug\03.CirclePerimeterAndArea.csprojResolveAssemblyReference.cache
