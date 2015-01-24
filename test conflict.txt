@@ -1,6 +1,6 @@
 here we go some text
-<<<<<<< HEAD
-naw lets see the conflict 
-=======
- addet more text 
->>>>>>> 3aec3766bf03b70f9204b69cbcc3f08c193a7207
+
+
+addet more text 
+naw lets see the conflict
+
