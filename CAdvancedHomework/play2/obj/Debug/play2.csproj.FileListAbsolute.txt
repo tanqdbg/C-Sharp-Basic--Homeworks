@@ -1,0 +1,6 @@
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\play2\bin\Debug\play2.exe.config
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\play2\bin\Debug\play2.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\play2\bin\Debug\play2.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\play2\obj\Debug\play2.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\play2\obj\Debug\play2.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\play2\obj\Debug\play2.csprojResolveAssemblyReference.cache

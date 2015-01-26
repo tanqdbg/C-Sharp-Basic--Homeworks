@@ -1,0 +1,6 @@
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\MatrixPlay\bin\Debug\MatrixPlay.exe.config
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\MatrixPlay\bin\Debug\MatrixPlay.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\MatrixPlay\bin\Debug\MatrixPlay.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\MatrixPlay\obj\Debug\MatrixPlay.csprojResolveAssemblyReference.cache
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\MatrixPlay\obj\Debug\MatrixPlay.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\MatrixPlay\obj\Debug\MatrixPlay.pdb

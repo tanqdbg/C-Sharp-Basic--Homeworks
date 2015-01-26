@@ -1,0 +1,6 @@
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\playWithBits\bin\Debug\playWithBits.exe.config
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\playWithBits\bin\Debug\playWithBits.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\playWithBits\bin\Debug\playWithBits.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\playWithBits\obj\Debug\playWithBits.csprojResolveAssemblyReference.cache
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\playWithBits\obj\Debug\playWithBits.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\playWithBits\obj\Debug\playWithBits.pdb

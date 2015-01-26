@@ -1,0 +1,6 @@
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\10.JoinLists\bin\Debug\10.JoinLists.exe.config
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\10.JoinLists\bin\Debug\10.JoinLists.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\10.JoinLists\bin\Debug\10.JoinLists.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\10.JoinLists\obj\Debug\10.JoinLists.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\10.JoinLists\obj\Debug\10.JoinLists.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\10.JoinLists\obj\Debug\10.JoinLists.csprojResolveAssemblyReference.cache

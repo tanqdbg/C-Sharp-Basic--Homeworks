@@ -1,0 +1,12 @@
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\10.PointInsideCircleAndOutsideRectangle\bin\Debug\10.PointInsideCircleAndOutsideRectangle.exe.config
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\10.PointInsideCircleAndOutsideRectangle\bin\Debug\10.PointInsideCircleAndOutsideRectangle.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\10.PointInsideCircleAndOutsideRectangle\bin\Debug\10.PointInsideCircleAndOutsideRectangle.pdb
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\10.PointInsideCircleAndOutsideRectangle\obj\Debug\10.PointInsideCircleAndOutsideRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\10.PointInsideCircleAndOutsideRectangle\obj\Debug\10.PointInsideCircleAndOutsideRectangle.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\10.PointInsideCircleAndOutsideRectangle\obj\Debug\10.PointInsideCircleAndOutsideRectangle.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\10.PointInsideCircleAndOutsideRectangle\bin\Debug\10.PointInsideCircleAndOutsideRectangle.exe.config
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\10.PointInsideCircleAndOutsideRectangle\bin\Debug\10.PointInsideCircleAndOutsideRectangle.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\10.PointInsideCircleAndOutsideRectangle\bin\Debug\10.PointInsideCircleAndOutsideRectangle.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\10.PointInsideCircleAndOutsideRectangle\obj\Debug\10.PointInsideCircleAndOutsideRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\10.PointInsideCircleAndOutsideRectangle\obj\Debug\10.PointInsideCircleAndOutsideRectangle.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\10.PointInsideCircleAndOutsideRectangle\obj\Debug\10.PointInsideCircleAndOutsideRectangle.pdb

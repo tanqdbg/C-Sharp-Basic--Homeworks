@@ -1,0 +1,11 @@
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.pdb
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.csprojResolveAssemblyReference.cache

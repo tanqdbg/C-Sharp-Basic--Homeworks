@@ -1,0 +1,6 @@
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe.config
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.pdb

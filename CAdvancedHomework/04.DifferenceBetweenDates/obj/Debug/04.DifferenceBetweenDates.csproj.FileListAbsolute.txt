@@ -1,0 +1,6 @@
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\04.DifferenceBetweenDates\bin\Debug\04.DifferenceBetweenDates.exe.config
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\04.DifferenceBetweenDates\bin\Debug\04.DifferenceBetweenDates.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\04.DifferenceBetweenDates\bin\Debug\04.DifferenceBetweenDates.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.csprojResolveAssemblyReference.cache
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\04.DifferenceBetweenDates\obj\Debug\04.DifferenceBetweenDates.pdb

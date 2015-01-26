@@ -1,0 +1,6 @@
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.exe.config
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.csprojResolveAssemblyReference.cache
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.pdb

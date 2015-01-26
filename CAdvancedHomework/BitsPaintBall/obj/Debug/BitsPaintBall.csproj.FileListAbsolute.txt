@@ -1,0 +1,6 @@
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\BitsPaintBall\bin\Debug\BitsPaintBall.exe.config
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\BitsPaintBall\bin\Debug\BitsPaintBall.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\BitsPaintBall\bin\Debug\BitsPaintBall.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\BitsPaintBall\obj\Debug\BitsPaintBall.csprojResolveAssemblyReference.cache
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\BitsPaintBall\obj\Debug\BitsPaintBall.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\BitsPaintBall\obj\Debug\BitsPaintBall.pdb

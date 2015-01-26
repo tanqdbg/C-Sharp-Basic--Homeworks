@@ -1,0 +1,6 @@
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\05.SortASequence\bin\Debug\05.SortASequence.exe.config
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\05.SortASequence\bin\Debug\05.SortASequence.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\05.SortASequence\bin\Debug\05.SortASequence.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\05.SortASequence\obj\Debug\05.SortASequence.csprojResolveAssemblyReference.cache
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\05.SortASequence\obj\Debug\05.SortASequence.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\05.SortASequence\obj\Debug\05.SortASequence.pdb

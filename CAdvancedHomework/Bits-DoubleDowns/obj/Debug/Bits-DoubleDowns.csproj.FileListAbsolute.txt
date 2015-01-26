@@ -1,0 +1,6 @@
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\Bits-DoubleDowns\bin\Debug\Bits-DoubleDowns.exe.config
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\Bits-DoubleDowns\bin\Debug\Bits-DoubleDowns.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\Bits-DoubleDowns\bin\Debug\Bits-DoubleDowns.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\Bits-DoubleDowns\obj\Debug\Bits-DoubleDowns.csprojResolveAssemblyReference.cache
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\Bits-DoubleDowns\obj\Debug\Bits-DoubleDowns.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\Bits-DoubleDowns\obj\Debug\Bits-DoubleDowns.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\test\bin\Debug\test.exe.config
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\test\bin\Debug\test.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\test\bin\Debug\test.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\test\obj\Debug\test.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\test\obj\Debug\test.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\test\obj\Debug\test.csprojResolveAssemblyReference.cache

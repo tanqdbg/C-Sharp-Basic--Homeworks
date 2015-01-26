@@ -1,0 +1,16 @@
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb
+C:\Users\Eli\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
+C:\Users\Eli\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
+C:\Users\Eli\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb
+C:\Users\Eli\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
+C:\Users\Eli\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe.config
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\bin\Debug\02.GravitationOnTheMoon.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\02.GravitationOnTheMoon\obj\Debug\02.GravitationOnTheMoon.csprojResolveAssemblyReference.cache

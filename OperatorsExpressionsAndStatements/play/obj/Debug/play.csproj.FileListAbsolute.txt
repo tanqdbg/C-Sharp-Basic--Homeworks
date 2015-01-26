@@ -1,0 +1,5 @@
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\play\bin\Debug\play.exe.config
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\play\bin\Debug\play.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\play\bin\Debug\play.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\play\obj\Debug\play.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\play\obj\Debug\play.pdb

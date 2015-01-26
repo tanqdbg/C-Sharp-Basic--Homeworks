@@ -1,0 +1,6 @@
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\spyHardexam19.12\bin\Debug\spyHardexam19.12.exe.config
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\spyHardexam19.12\bin\Debug\spyHardexam19.12.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\spyHardexam19.12\bin\Debug\spyHardexam19.12.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\spyHardexam19.12\obj\Debug\spyHardexam19.12.csprojResolveAssemblyReference.cache
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\spyHardexam19.12\obj\Debug\spyHardexam19.12.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\spyHardexam19.12\obj\Debug\spyHardexam19.12.pdb

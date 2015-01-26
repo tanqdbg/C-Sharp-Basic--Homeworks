@@ -1,0 +1,15 @@
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\03.DivideBySevenAandFive\bin\Debug\03.DivideBySevenAandFive.exe.config
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\03.DivideBySevenAandFive\bin\Debug\03.DivideBySevenAandFive.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\03.DivideBySevenAandFive\bin\Debug\03.DivideBySevenAandFive.pdb
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\03.DivideBySevenAandFive\obj\Debug\03.DivideBySevenAandFive.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\03.DivideBySevenAandFive\obj\Debug\03.DivideBySevenAandFive.pdb
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\03.DivideBySevenAandFive\obj\Debug\03.DivideBySevenAandFive.csprojResolveAssemblyReference.cache
+C:\Users\Eli\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\03.DivideBySevenAandFive\bin\Debug\03.DivideBySevenAandFive.exe.config
+C:\Users\Eli\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\03.DivideBySevenAandFive\obj\Debug\03.DivideBySevenAandFive.exe
+C:\Users\Eli\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\03.DivideBySevenAandFive\obj\Debug\03.DivideBySevenAandFive.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\03.DivideBySevenAandFive\bin\Debug\03.DivideBySevenAandFive.exe.config
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\03.DivideBySevenAandFive\obj\Debug\03.DivideBySevenAandFive.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\03.DivideBySevenAandFive\obj\Debug\03.DivideBySevenAandFive.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\03.DivideBySevenAandFive\bin\Debug\03.DivideBySevenAandFive.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\03.DivideBySevenAandFive\bin\Debug\03.DivideBySevenAandFive.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\03.DivideBySevenAandFive\obj\Debug\03.DivideBySevenAandFive.csprojResolveAssemblyReference.cache

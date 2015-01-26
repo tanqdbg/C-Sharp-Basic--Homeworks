@@ -1,0 +1,6 @@
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\bitBuilder\bin\Debug\bitBuilder.exe.config
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\bitBuilder\obj\Debug\bitBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\bitBuilder\bin\Debug\bitBuilder.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\bitBuilder\bin\Debug\bitBuilder.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\bitBuilder\obj\Debug\bitBuilder.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\bitBuilder\obj\Debug\bitBuilder.pdb

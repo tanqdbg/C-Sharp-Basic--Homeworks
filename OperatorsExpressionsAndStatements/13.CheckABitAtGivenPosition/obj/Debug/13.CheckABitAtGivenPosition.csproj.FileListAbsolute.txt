@@ -1,0 +1,10 @@
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe.config
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.pdb
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe.config
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\bin\Debug\13.CheckABitAtGivenPosition.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\13.CheckABitAtGivenPosition\obj\Debug\13.CheckABitAtGivenPosition.pdb

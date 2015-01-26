@@ -1,0 +1,6 @@
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\08.LongestNonDecreasingSubsequence\bin\Debug\08.LongestNonDecreasingSubsequence.exe.config
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\08.LongestNonDecreasingSubsequence\bin\Debug\08.LongestNonDecreasingSubsequence.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\08.LongestNonDecreasingSubsequence\bin\Debug\08.LongestNonDecreasingSubsequence.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\08.LongestNonDecreasingSubsequence\obj\Debug\08.LongestNonDecreasingSubsequence.csprojResolveAssemblyReference.cache
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\08.LongestNonDecreasingSubsequence\obj\Debug\08.LongestNonDecreasingSubsequence.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\08.LongestNonDecreasingSubsequence\obj\Debug\08.LongestNonDecreasingSubsequence.pdb

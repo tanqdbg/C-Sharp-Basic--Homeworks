@@ -1,0 +1,6 @@
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\12.CountOfNames\bin\Debug\12.CountOfNames.exe.config
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\12.CountOfNames\bin\Debug\12.CountOfNames.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\12.CountOfNames\bin\Debug\12.CountOfNames.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\12.CountOfNames\obj\Debug\12.CountOfNames.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\12.CountOfNames\obj\Debug\12.CountOfNames.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\12.CountOfNames\obj\Debug\12.CountOfNames.csprojResolveAssemblyReference.cache

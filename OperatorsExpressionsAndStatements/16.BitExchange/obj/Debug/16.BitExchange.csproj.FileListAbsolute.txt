@@ -1,0 +1,15 @@
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\16.BitExchange\bin\Debug\16.BitExchange.exe.config
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\16.BitExchange\bin\Debug\16.BitExchange.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\16.BitExchange\bin\Debug\16.BitExchange.pdb
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\16.BitExchange\obj\Debug\16.BitExchange.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\16.BitExchange\obj\Debug\16.BitExchange.pdb
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\16.BitExchange\obj\Debug\16.BitExchange.csprojResolveAssemblyReference.cache
+C:\Users\Eli\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\16.BitExchange\bin\Debug\16.BitExchange.exe.config
+C:\Users\Eli\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\16.BitExchange\obj\Debug\16.BitExchange.exe
+C:\Users\Eli\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\16.BitExchange\obj\Debug\16.BitExchange.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\16.BitExchange\bin\Debug\16.BitExchange.exe.config
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\16.BitExchange\bin\Debug\16.BitExchange.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\16.BitExchange\bin\Debug\16.BitExchange.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\16.BitExchange\obj\Debug\16.BitExchange.csprojResolveAssemblyReference.cache
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\16.BitExchange\obj\Debug\16.BitExchange.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\16.BitExchange\obj\Debug\16.BitExchange.pdb

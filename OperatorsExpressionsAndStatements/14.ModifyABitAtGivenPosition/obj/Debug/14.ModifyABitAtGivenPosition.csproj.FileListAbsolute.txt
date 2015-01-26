@@ -1,0 +1,12 @@
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\14.ModifyABitAtGivenPosition\bin\Debug\14.ModifyABitAtGivenPosition.exe.config
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\14.ModifyABitAtGivenPosition\bin\Debug\14.ModifyABitAtGivenPosition.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\14.ModifyABitAtGivenPosition\bin\Debug\14.ModifyABitAtGivenPosition.pdb
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\14.ModifyABitAtGivenPosition\obj\Debug\14.ModifyABitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\14.ModifyABitAtGivenPosition\obj\Debug\14.ModifyABitAtGivenPosition.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\14.ModifyABitAtGivenPosition\obj\Debug\14.ModifyABitAtGivenPosition.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\14.ModifyABitAtGivenPosition\bin\Debug\14.ModifyABitAtGivenPosition.exe.config
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\14.ModifyABitAtGivenPosition\bin\Debug\14.ModifyABitAtGivenPosition.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\14.ModifyABitAtGivenPosition\bin\Debug\14.ModifyABitAtGivenPosition.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\14.ModifyABitAtGivenPosition\obj\Debug\14.ModifyABitAtGivenPosition.csprojResolveAssemblyReference.cache
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\14.ModifyABitAtGivenPosition\obj\Debug\14.ModifyABitAtGivenPosition.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\14.ModifyABitAtGivenPosition\obj\Debug\14.ModifyABitAtGivenPosition.pdb

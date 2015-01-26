@@ -1,0 +1,18 @@
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe.config
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.pdb
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.pdb
+C:\Users\Eli\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe.config
+C:\Users\Eli\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.exe
+C:\Users\Eli\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.pdb
+C:\Users\Eli\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe
+C:\Users\Eli\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.pdb
+C:\Users\Eli\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe.config
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\01.OddOrEvenIntegers\bin\Debug\01.OddOrEvenIntegers.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\01.OddOrEvenIntegers\obj\Debug\01.OddOrEvenIntegers.csprojResolveAssemblyReference.cache

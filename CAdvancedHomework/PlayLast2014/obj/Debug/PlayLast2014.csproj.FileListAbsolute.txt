@@ -1,0 +1,6 @@
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\PlayLast2014\bin\Debug\PlayLast2014.exe.config
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\PlayLast2014\obj\Debug\PlayLast2014.csprojResolveAssemblyReference.cache
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\PlayLast2014\bin\Debug\PlayLast2014.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\PlayLast2014\bin\Debug\PlayLast2014.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\PlayLast2014\obj\Debug\PlayLast2014.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\PlayLast2014\obj\Debug\PlayLast2014.pdb

@@ -1,0 +1,12 @@
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\15.BitsExchange\bin\Debug\15.BitsExchange.exe.config
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\15.BitsExchange\obj\Debug\15.BitsExchange.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\15.BitsExchange\bin\Debug\15.BitsExchange.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\15.BitsExchange\bin\Debug\15.BitsExchange.pdb
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\15.BitsExchange\obj\Debug\15.BitsExchange.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\15.BitsExchange\obj\Debug\15.BitsExchange.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\15.BitsExchange\bin\Debug\15.BitsExchange.exe.config
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\15.BitsExchange\obj\Debug\15.BitsExchange.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\15.BitsExchange\obj\Debug\15.BitsExchange.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\15.BitsExchange\bin\Debug\15.BitsExchange.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\15.BitsExchange\bin\Debug\15.BitsExchange.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\15.BitsExchange\obj\Debug\15.BitsExchange.csprojResolveAssemblyReference.cache

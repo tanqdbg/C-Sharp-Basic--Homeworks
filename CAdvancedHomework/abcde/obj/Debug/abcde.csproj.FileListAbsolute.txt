@@ -1,0 +1,6 @@
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\abcde\bin\Debug\abcde.exe.config
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\abcde\obj\Debug\abcde.csprojResolveAssemblyReference.cache
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\abcde\bin\Debug\abcde.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\abcde\bin\Debug\abcde.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\abcde\obj\Debug\abcde.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\abcde\obj\Debug\abcde.pdb

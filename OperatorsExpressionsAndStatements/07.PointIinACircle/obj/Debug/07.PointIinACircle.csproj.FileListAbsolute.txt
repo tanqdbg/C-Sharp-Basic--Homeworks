@@ -1,0 +1,12 @@
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\07.PointIinACircle\bin\Debug\07.PointIinACircle.exe.config
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\07.PointIinACircle\bin\Debug\07.PointIinACircle.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\07.PointIinACircle\bin\Debug\07.PointIinACircle.pdb
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\07.PointIinACircle\obj\Debug\07.PointIinACircle.csprojResolveAssemblyReference.cache
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\07.PointIinACircle\obj\Debug\07.PointIinACircle.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\07.PointIinACircle\obj\Debug\07.PointIinACircle.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\07.PointIinACircle\bin\Debug\07.PointIinACircle.exe.config
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\07.PointIinACircle\obj\Debug\07.PointIinACircle.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\07.PointIinACircle\obj\Debug\07.PointIinACircle.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\07.PointIinACircle\bin\Debug\07.PointIinACircle.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\07.PointIinACircle\bin\Debug\07.PointIinACircle.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\07.PointIinACircle\obj\Debug\07.PointIinACircle.csprojResolveAssemblyReference.cache

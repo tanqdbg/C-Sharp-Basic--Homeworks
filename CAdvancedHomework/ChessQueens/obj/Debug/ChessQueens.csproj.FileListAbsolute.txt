@@ -1,0 +1,6 @@
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\ChessQueens\bin\Debug\ChessQueens.exe.config
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\ChessQueens\obj\Debug\ChessQueens.csprojResolveAssemblyReference.cache
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\ChessQueens\bin\Debug\ChessQueens.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\ChessQueens\bin\Debug\ChessQueens.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\ChessQueens\obj\Debug\ChessQueens.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\ChessQueens\obj\Debug\ChessQueens.pdb

@@ -1,0 +1,10 @@
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe.config
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.pdb
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe.config
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.pdb

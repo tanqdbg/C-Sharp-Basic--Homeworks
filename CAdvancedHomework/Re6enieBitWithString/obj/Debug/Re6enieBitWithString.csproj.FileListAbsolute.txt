@@ -1,0 +1,6 @@
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\Re6enieBitWithString\bin\Debug\Re6enieBitWithString.exe.config
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\Re6enieBitWithString\obj\Debug\Re6enieBitWithString.csprojResolveAssemblyReference.cache
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\Re6enieBitWithString\bin\Debug\Re6enieBitWithString.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\Re6enieBitWithString\bin\Debug\Re6enieBitWithString.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\Re6enieBitWithString\obj\Debug\Re6enieBitWithString.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\Re6enieBitWithString\obj\Debug\Re6enieBitWithString.pdb

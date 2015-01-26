@@ -1,0 +1,6 @@
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\09.RemoveNames\bin\Debug\09.RemoveNames.exe.config
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\09.RemoveNames\obj\Debug\09.RemoveNames.csprojResolveAssemblyReference.cache
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\09.RemoveNames\bin\Debug\09.RemoveNames.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\09.RemoveNames\bin\Debug\09.RemoveNames.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\09.RemoveNames\obj\Debug\09.RemoveNames.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\09.RemoveNames\obj\Debug\09.RemoveNames.pdb

@@ -1,0 +1,10 @@
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+C:\Users\Tanya\Desktop\doma6ni\OperatorsExpressionsAndStatements\09.Trapezoids\obj\Debug\09.Trapezoids.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\09.Trapezoids\bin\Debug\09.Trapezoids.exe.config
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\09.Trapezoids\bin\Debug\09.Trapezoids.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\09.Trapezoids\bin\Debug\09.Trapezoids.pdb
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\09.Trapezoids\obj\Debug\09.Trapezoids.exe
+C:\Users\Tanq\Desktop\loops\Homework-tanqdbg-Operators and Expressions\OperatorsExpressionsAndStatements\09.Trapezoids\obj\Debug\09.Trapezoids.pdb

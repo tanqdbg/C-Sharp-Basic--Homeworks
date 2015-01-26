@@ -1,0 +1,6 @@
+c:\users\tanq\documents\visual studio 2012\Projects\CAdvancedHomework\02.PrimeChecker\obj\Debug\02.PrimeChecker.csprojResolveAssemblyReference.cache
+c:\users\tanq\documents\visual studio 2012\Projects\CAdvancedHomework\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe.config
+c:\users\tanq\documents\visual studio 2012\Projects\CAdvancedHomework\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe
+c:\users\tanq\documents\visual studio 2012\Projects\CAdvancedHomework\02.PrimeChecker\bin\Debug\02.PrimeChecker.pdb
+c:\users\tanq\documents\visual studio 2012\Projects\CAdvancedHomework\02.PrimeChecker\obj\Debug\02.PrimeChecker.exe
+c:\users\tanq\documents\visual studio 2012\Projects\CAdvancedHomework\02.PrimeChecker\obj\Debug\02.PrimeChecker.pdb

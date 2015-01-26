@@ -1,0 +1,6 @@
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\11.CountOfLetters\bin\Debug\11.CountOfLetters.exe.config
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\11.CountOfLetters\obj\Debug\11.CountOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\11.CountOfLetters\bin\Debug\11.CountOfLetters.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\11.CountOfLetters\bin\Debug\11.CountOfLetters.pdb
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\11.CountOfLetters\obj\Debug\11.CountOfLetters.exe
+C:\Users\Tanq\Documents\Visual Studio 2012\Projects\CAdvancedHomework\11.CountOfLetters\obj\Debug\11.CountOfLetters.pdb
